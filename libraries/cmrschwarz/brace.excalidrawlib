@@ -1,0 +1,87 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "libraryItems": [
+    {
+      "status": "published",
+           "elements": [
+        {
+          "type": "line",
+          "version": 5893,
+          "versionNonce": 2097783210,
+          "isDeleted": false,
+          "id": "xKpNGVUGOkJv4EXfItM-T",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 0,
+          "opacity": 100,
+          "angle": 0,
+          "x": -2563.3142438786713,
+          "y": -367.1656343101695,
+          "strokeColor": "#1e1e1e",
+          "backgroundColor": "transparent",
+          "width": 81.14479406094097,
+          "height": 369.28299518961944,
+          "seed": 1887919850,
+          "groupIds": [],
+          "frameId": null,
+          "roundness": {
+            "type": 2
+          },
+          "boundElements": [],
+          "updated": 1699632431459,
+          "link": null,
+          "locked": false,
+          "startBinding": null,
+          "endBinding": null,
+          "lastCommittedPoint": null,
+          "startArrowhead": null,
+          "endArrowhead": null,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              37.665367455986235,
+              15.611882207367128
+            ],
+            [
+              42.96529441086856,
+              134.49017918184236
+            ],
+            [
+              49.377823920312785,
+              176.77380306899965
+            ],
+            [
+              81.14479406094097,
+              184.63963859533976
+            ],
+            [
+              50.10893647202122,
+              192.57652808538452
+            ],
+            [
+              42.83409916102165,
+              235.02653223953016
+            ],
+            [
+              37.8742097670046,
+              353.70497303586444
+            ],
+            [
+              0.42237592884262926,
+              369.28299518961944
+            ]
+          ]
+        }
+      ],
+      "id": "3srzAoitxnDwuo5vmCKjD",
+      "created": 1699629717123,
+      "name": "brace"
+    }
+  ]
+}
